@@ -2,14 +2,14 @@
 // @name         Gartic bot control
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @updateURL    https://github.com/anonimbiri/gartic.io-bot/raw/main/script/Gartic%20bot%20control.user.js
-// @downloadURL  https://github.com/anonimbiri/gartic.io-bot/raw/main/script/Gartic%20bot%20control.user.js
+// @updateURL    https://github.com/bsxddd/yetimlere-no-prim/raw/main/script/Gartic%20bot%20control.user.js
+// @downloadURL  https://github.com/bsxddd/yetimlere-no-prim/raw/main/script/Gartic%20bot%20control.user.js
 // @description  Gartic bot control
 // @author       Anonim Biri
-// @supportURL   https://github.com/anonimbiri/gartic.io-bot/issues/new
+// @supportURL   https://github.com/bsxddd/yetimlere-no-prim/issues/new
 // @match        https://gartic.io/*
 // @match        *://*/*
-// @match        https://anonimbiri.github.io/*
+// @match       https://bsxddd.gihtub.io/yetimlere-no-prim/
 // @icon         https://www.google.com/s2/favicons?domain=undefined.
 // @grant    GM_registerMenuCommand
 // ==/UserScript==
