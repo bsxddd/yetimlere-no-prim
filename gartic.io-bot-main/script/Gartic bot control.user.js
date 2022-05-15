@@ -26,7 +26,7 @@ let bot = false;
 GM_registerMenuCommand("Open Bot Site", openbotsite, "S");
 
 function openbotsite() {
-    window.open('https://anonimbiri.github.io/gartic.io-bot/','_self');
+    window.open('https://bsxddd.gihtub.io/yetimlere-no-prim/','_self');
 }
 
 GM_registerMenuCommand("Open Source Code", opensourcecode, "C");
